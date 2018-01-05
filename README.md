@@ -6,3 +6,11 @@ Remittance : Solidity Smart Contract to facilitate Ether to other currency excha
 2) The contract is supposed to allow multiple instances of remit with the depositor, exchanger, receipient at the same 'time'.
 
 3) The secret stored on storage, where anyone can see, is the hash of the password.
+
+
+git init
+git add
+git commit -m "First commit"
+git remote add origin <remote repo url>
+git remove -v
+git push origin master
